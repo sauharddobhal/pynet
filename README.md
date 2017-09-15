@@ -24,5 +24,4 @@
 
 > Enter this command `python install.py`, Enjoy
 
- * Warning! Dont move pynet folder after installation, will stop working
-
+ * Warning! Don't move pynet folder after installation, otherwise it will stop working
